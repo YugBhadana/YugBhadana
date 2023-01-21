@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YugBhadana
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Frontend Development
+- 🌱 Skilled in HTML, CSS, JavaScript, and frontend framework {React} and libraries.
 - 📫 How to reach me yugbhadana@gmail.com
 
 <!---
